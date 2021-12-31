@@ -46,3 +46,9 @@ function century(year) {
 }
 
 ```
+## Languages:
+ - Kyrgyz (Native)
+ - Russian (Fluent)
+ - English(Advanced)
+ - Turkish (B2)
+ - French (A1)
