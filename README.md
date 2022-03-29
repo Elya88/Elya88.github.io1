@@ -1,2 +1,2 @@
 # rsschool-cv
-[CV#2.HTML,CSS&Git Basics](https://elya88.github.io/rsschool-cv/)
+[Markdown cv #1](https://elya88.github.io/rsschool-cv/)
